@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<passageiros>
+    <passageiro>
+        <nome>João</nome>
+        <idade>27</idade>
+        <numeroDoTicket>12345</numeroDoTicket>
+        <origem>Brasilia</origem>
+        <destino>São paulo</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Geuza</nome>
+        <idade>40</idade>
+        <numeroDoTicket>54321</numeroDoTicket>
+        <origem>Belo Horisonte</origem>
+        <destino>Recife</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Alberto</nome>
+        <idade>19</idade>
+        <numeroDoTicket>98765</numeroDoTicket>
+        <origem>Rio De Janeiro</origem>
+        <destino>Curitiba</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Ana Maria</nome>
+        <idade>22</idade>
+        <numeroDoTicket>37495</numeroDoTicket>
+        <origem>Campina Grande</origem>
+        <destino>Manaus</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Juremar</nome>
+        <idade>68</idade>
+        <numeroDoTicket>02845</numeroDoTicket>
+        <origem>Fortaleza</origem>
+        <destino>Salvador</destino>
+    </passageiro>
+</passageiros>
